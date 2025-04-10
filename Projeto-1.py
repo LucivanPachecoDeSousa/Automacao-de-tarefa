@@ -1,5 +1,7 @@
 # AUTOMAÇÃO DE TAREFAS, AGENDA
 
+#LUCIVAN PACHECO
+
 
 import pyautogui
 import time
